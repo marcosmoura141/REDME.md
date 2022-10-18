@@ -1,5 +1,6 @@
 # REDME.md
-Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Marcos antonio ============ ================================================== ================================================== ====================== Desenvolvedor web ----------------- Atualmente estou estudando na TRYBE * 🌍 I' tenho sede em Orobó-PE-BR * ✉️ Você pode entrar em contato comigo em [marcosmoura141@gmail.com](mailto:marcosmoura141@gmail.com) * 🧠 Estou aprendendo JS, React, HTML, CSS * 🤝 Estou aberto colaborar em Projetos Desafiantes para cada dia cresçer mais.
+Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Marcos antonio
+Desenvolvedor web Atualmente estou estudando na TRYBE * 🌍 I' tenho sede em Orobó-PE-BR * ✉️ Você pode entrar em contato comigo em [marcosmoura141@gmail.com](mailto:marcosmoura141@gmail.com) * 🧠 Estou aprendendo JS, React, HTML, CSS * 🤝 Estou aberto colaborar em Projetos Desafiantes para cada dia cresçer mais.
 
 ### Habilidades
 
